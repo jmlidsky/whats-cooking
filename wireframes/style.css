@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 10px;
+    text-align: center;
+}
+
+form {
+    width: 70%;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: column;
+}
+
+
+form input {
+    margin: 5px 0;
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    height: 25px;   
+}
+
+button {
+    height: 35px;
+    margin: 4px 0;
+    padding: 8px;
+}
